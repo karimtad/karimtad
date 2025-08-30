@@ -1,10 +1,7 @@
-<!-- Profile README for @karimtad -->
+<!-- Profile README for @karimtad | last updated: 2025‑08‑30 -->
 
-<h1 align="center">Karim Tadout — Software Developer</h1>
-
-<p align="center">
-  Building reliable back‑end APIs with Java/Spring and shipping small, useful web apps. Clean code, clear docs, and fast feedback loops.
-</p>
+<h1 align="center">Karim Tadout — 4th‑year Engineering Student & Full‑Stack Developer</h1>
+<p align="center">Based in Morocco • Building reliable Java/Spring back ends and small, useful web apps.</p>
 
 <p align="center">
   <a href="https://github.com/karimtad">GitHub</a> •
@@ -15,9 +12,9 @@
 
 ## 🧭 About
 
-* Focused on **Java / Spring Boot** back ends and **simple, accessible front ends**.
-* Interested in **REST APIs**, **JWT auth**, and **deployment basics**.
-* I like turning small ideas into something people can try.
+* 4th‑year engineering student, passionate about clean code and practical projects.
+* Focus: **Java / Spring Boot**, **REST APIs**, and lightweight front ends (HTML/CSS/JS).
+* Currently exploring: **Spring Security (JWT)**, **Docker**, and CI basics.
 
 ## 🧰 Tech Stack
 
@@ -31,6 +28,8 @@
   <img src="https://img.shields.io/badge/Java-000?logo=java" />
   <img src="https://img.shields.io/badge/Spring_Boot-000?logo=springboot" />
   <img src="https://img.shields.io/badge/JavaScript-000?logo=javascript" />
+  <img src="https://img.shields.io/badge/HTML5-000?logo=html5" />
+  <img src="https://img.shields.io/badge/CSS3-000?logo=css3" />
   <img src="https://img.shields.io/badge/PostgreSQL-000?logo=postgresql" />
   <img src="https://img.shields.io/badge/Docker-000?logo=docker" />
   <img src="https://img.shields.io/badge/GitHub_Actions-000?logo=githubactions" />
@@ -43,48 +42,43 @@
 **Text-to-Speech Converter** — small web app using the **Web Speech API** (HTML/CSS/JS).
 
 * Type text, choose a voice, and play it in the browser.
-* Clear UI, keyboard‑friendly controls.
-* **Live Demo:** [https://karimtad.github.io/Text-to-Speech-Converter/](https://karimtad.github.io/Text-to-Speech-Converter/) *(enable GitHub Pages on the repo if not active yet)*
+* Stack: HTML, CSS, JavaScript
+* **Languages:** CSS \~51%, JS \~30%, HTML \~19%
+* **Live Demo:** [https://karimtad.github.io/Text-to-Speech-Converter/](https://karimtad.github.io/Text-to-Speech-Converter/) *(enable GitHub Pages if not active yet)*
 * **Code:** [https://github.com/karimtad/Text-to-Speech-Converter](https://github.com/karimtad/Text-to-Speech-Converter)
 
-> Future iterations: save presets, support SSML‑like pauses, and add a shareable link.
+> Next: presets, SSML‑style pauses, and shareable links.
+
+## 🗂 Other Repos
+
+* **mainpy** — repository created; currently empty (WIP).
 
 ---
 
 ## 🎓 Education
 
-* *(Add your degree, school, and years here)*
-
-  * Example: **BSc in Computer Science**, University Name (2020–2024)
+* *4th‑year Engineering student* (school details can be added here if you want them public)
 
 ## 🏅 Certifications
 
-> List the exact name, issuer, and year. Link to the credential if possible.
+*Add the exact certificate titles + issuers + links here (I’ll keep them in this section when you share them):*
 
-* *(Add here)*
-
-  * Example: **Java SE 11 Developer**, Oracle — *2024* — [Credential](#)
-  * Example: **Spring Professional**, VMware — *2025* — [Credential](#)
+* Example: **Java SE 11 Developer**, Oracle — 2024 — [Credential](#)
+* Example: **Spring Professional**, VMware — 2025 — [Credential](#)
 
 ## 💼 Experience & Projects
 
-* *(Add role/company/timeframe OR notable project bullets here)*
-
-  * Example: **Back‑end Intern**, Company — *Jun–Sep 2025*
-    Built REST endpoints (Spring Boot), added JWT auth, wrote unit tests (JUnit/Mockito).
-* Personal: **API Starter** — minimal Spring Boot starter: security, logging, Dockerfile (WIP).
+* Personal: **API Starter** — minimal Spring Boot starter (security, logging, Dockerfile) — *WIP*
 
 ---
 
-## 🗂️ Other Things I Work On
+## 📈 Profile Snapshot
 
-* Small utilities that solve one problem well.
-* Learning paths & notes (Spring Security, test pyramids, performance basics).
+* **Public repos:** 2
+* **Followers:** 4 • **Following:** 25
+* **Location:** Morocco
 
-## 🤝 Collaboration
-
-* Open to collaborating on **Java/Spring** back‑ends and **small web tools**.
-* If a repo could use better docs, tests, or a demo, I’m happy to help.
+> These numbers update on GitHub; this snapshot reflects the day this README was updated.
 
 ## 📫 Contact
 
@@ -93,18 +87,9 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=karimtad&show_icons=true" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karimtad&layout=compact" alt="Top languages" />
 </p>
-
----
-
-### Setup notes (for me)
-
-* **Profile README:** This file should live in a public repo named **karimtad**.
-* **GitHub Pages:** Enable Pages on `Text-to-Speech-Converter` (Settings → Pages) to activate the live demo link.
-
-<sub>Last updated: 2025‑08‑30</sub>
