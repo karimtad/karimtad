@@ -63,8 +63,8 @@
 
 *Add the exact certificate titles + issuers + links here (I’ll keep them in this section when you share them):*
 
-* Example: **Java SE 11 Developer**, Oracle — 2024 — [Credential](#)
-* Example: **Spring Professional**, VMware — 2025 — [Credential](#)
+* Certificate 1: Introduction to Cyber security, Cisco — 2024 — [Credential](#)
+* Certificate 2: SQl Intermediate , SoloLearn — 2024 — [Credential](#)
 
 ## 💼 Experience & Projects
 
