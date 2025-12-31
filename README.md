@@ -1,6 +1,6 @@
 <!-- Profile README for @karimtad | last updated: 2025‑08‑30 -->
 
-<h1 align="center">Karim Tadout — 4th‑year Engineering Student & Full‑Stack Developer</h1>
+<h1 align="center">Karim Tadout — 5th‑year Engineering Student & Full‑Stack Developer seeking PFE Internship</h1>
 <p align="center">Based in Morocco • Building reliable Java/Spring back ends and small, useful web apps.</p>
 
 <p align="center">
