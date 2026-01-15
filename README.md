@@ -12,7 +12,7 @@
 
 ## 🧭 About
 
-* 4th‑year engineering student, passionate about clean code and practical projects.
+* 5th‑year engineering student,seeking PFE Internship, passionate about clean code and practical projects.
 * Focus: **Java / Spring Boot**, **REST APIs**, and lightweight front ends (HTML/CSS/JS).
 * Currently exploring: **Spring Security (JWT)**, **Docker**, and CI basics.
 
